@@ -1,0 +1,4 @@
+Starting project at C:\Users\ferna\aulas_react_native\ignite\shoesapp
+Starting Metro Bundler
+Waiting on http://localhost:8081
+Logs for your project will appear below.
